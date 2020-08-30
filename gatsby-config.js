@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    defaultTitle: `Gatsby Startup/Hackathon Starter`,
-    defaultDescription: `A starter for building a startup or hackathon project`,
+    defaultTitle: `Gatsby BareBones Starter`,
+    defaultDescription: `A starter for a minimal app`,
     siteUrl: `https://example.com`,
     defaultImage: "./static/favicon.ico",
   },
